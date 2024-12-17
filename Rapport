@@ -1,0 +1,19 @@
+Syfte och Beskrivning
+
+    Beskriv projektet: Virtuell biluthyrning där användare kan hyra och returnera fordon samt få hyreskostnader.
+
+Objektorienterade Principer
+
+    Abstraktion: Vehicle-klassen fungerar som en abstrakt basklass.
+    Arv: Car, SUV, Truck, Convertible ärver från Vehicle.
+    Inkapsling: Attribut och metoder är organiserade inom klasser.
+    Interface (Simulerat): RentalService implementerar konceptet för uthyrning och återlämning.
+
+Kodstruktur
+
+    Klasser separerade i filer.
+    Huvudprogram körs från main.js.
+
+Testning och Resultat
+
+    Exempel på uthyrning, återlämning och kostnadsberäkning demonstreras i konsolen.
